@@ -2,7 +2,7 @@
 
 Bu proje, mobil cihazların kamerasını kullanarak gerçek dünyadaki yatay düzlemleri (Ground Plane) algılayan ve daha önce hazırlanan 3D şehir modelini bu düzlemlere sabitleyen bir Artırılmış Gerçeklik uygulamasıdır.
 <img width="2048" height="921" alt="image" src="https://github.com/user-attachments/assets/48aa1897-c332-4530-9185-1c8da56da1ce" />
-<img width="2048" height="921" alt="image" src="https://github.com/user-attachments/assets/48aa1897-c332-4530-9185-1c8da56da1ce" />
+<img width="1591" height="1080" alt="image" src="https://github.com/user-attachments/assets/29bce078-972b-4056-aa62-37a177464812" />
 <img width="1769" height="1080" alt="image" src="https://github.com/user-attachments/assets/f580d242-ee20-4609-ad10-481ac25d77d1" />
 
 ## Teknik Detaylar
